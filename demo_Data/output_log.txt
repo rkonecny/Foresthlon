@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 6100 (ID=0x162b)
+    Vendor:   Intel
+    VRAM:     2151 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\roman\Documents\2d game\demo_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 4240x1050 at -2560,0
+<RI> Initialized touch support.
+UnloadTime: 4.034932 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\roman\Documents\2d game\demo_Data\Managed\System.Data.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.160362 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1117.
+Total: 0.980004 ms (FindLiveObjects: 0.100124 ms CreateObjectMapping: 0.021997 ms MarkObjects: 0.851814 ms  DeleteObjects: 0.005309 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 13c4 -> priority: 1 
